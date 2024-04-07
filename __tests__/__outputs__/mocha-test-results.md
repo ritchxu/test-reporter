@@ -3,47 +3,47 @@
  
 |Report|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|fixtures/external/mocha/mocha-test-results.json|833:white_check_mark:||6:warning:|6s|
+|fixtures/external/mocha/mocha-test-results.json|833 :white_check_mark:||6 :warning:|6s|
 ## :white_check_mark: <a id="user-content-r0" href="#r0">fixtures/external/mocha/mocha-test-results.json</a>
 **839** tests were completed in **6s** with **833** passed, **0** failed and **6** skipped.
 |Test suite|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|[test/node-unit/buffered-worker-pool.spec.js](#r0s0)|14:white_check_mark:|||8ms|
-|[test/node-unit/cli/config.spec.js](#r0s1)|10:white_check_mark:|||8ms|
-|[test/node-unit/cli/node-flags.spec.js](#r0s2)|105:white_check_mark:|||9ms|
-|[test/node-unit/cli/options.spec.js](#r0s3)|36:white_check_mark:|||250ms|
-|[test/node-unit/cli/run-helpers.spec.js](#r0s4)|9:white_check_mark:|||8ms|
-|[test/node-unit/cli/run.spec.js](#r0s5)|40:white_check_mark:|||4ms|
-|[test/node-unit/mocha.spec.js](#r0s6)|24:white_check_mark:|||33ms|
-|[test/node-unit/parallel-buffered-runner.spec.js](#r0s7)|19:white_check_mark:|||23ms|
-|[test/node-unit/reporters/parallel-buffered.spec.js](#r0s8)|6:white_check_mark:|||16ms|
-|[test/node-unit/serializer.spec.js](#r0s9)|40:white_check_mark:|||31ms|
-|[test/node-unit/stack-trace-filter.spec.js](#r0s10)|2:white_check_mark:||4:warning:|1ms|
-|[test/node-unit/utils.spec.js](#r0s11)|5:white_check_mark:|||1ms|
-|[test/node-unit/worker.spec.js](#r0s12)|15:white_check_mark:|||92ms|
-|[test/unit/context.spec.js](#r0s13)|8:white_check_mark:|||5ms|
-|[test/unit/duration.spec.js](#r0s14)|3:white_check_mark:|||166ms|
-|[test/unit/errors.spec.js](#r0s15)|13:white_check_mark:|||5ms|
-|[test/unit/globals.spec.js](#r0s16)|4:white_check_mark:|||0ms|
-|[test/unit/grep.spec.js](#r0s17)|8:white_check_mark:|||2ms|
-|[test/unit/hook-async.spec.js](#r0s18)|3:white_check_mark:|||1ms|
-|[test/unit/hook-sync-nested.spec.js](#r0s19)|4:white_check_mark:|||1ms|
-|[test/unit/hook-sync.spec.js](#r0s20)|3:white_check_mark:|||0ms|
-|[test/unit/hook-timeout.spec.js](#r0s21)|1:white_check_mark:|||0ms|
-|[test/unit/hook.spec.js](#r0s22)|4:white_check_mark:|||0ms|
-|[test/unit/mocha.spec.js](#r0s23)|115:white_check_mark:||1:warning:|128ms|
-|[test/unit/overspecified-async.spec.js](#r0s24)|1:white_check_mark:|||3ms|
-|[test/unit/parse-query.spec.js](#r0s25)|2:white_check_mark:|||1ms|
-|[test/unit/plugin-loader.spec.js](#r0s26)|41:white_check_mark:||1:warning:|16ms|
-|[test/unit/required-tokens.spec.js](#r0s27)|1:white_check_mark:|||0ms|
-|[test/unit/root.spec.js](#r0s28)|1:white_check_mark:|||0ms|
-|[test/unit/runnable.spec.js](#r0s29)|55:white_check_mark:|||122ms|
-|[test/unit/runner.spec.js](#r0s30)|77:white_check_mark:|||43ms|
-|[test/unit/suite.spec.js](#r0s31)|57:white_check_mark:|||14ms|
-|[test/unit/test.spec.js](#r0s32)|15:white_check_mark:|||0ms|
-|[test/unit/throw.spec.js](#r0s33)|9:white_check_mark:|||9ms|
-|[test/unit/timeout.spec.js](#r0s34)|8:white_check_mark:|||109ms|
-|[test/unit/utils.spec.js](#r0s35)|75:white_check_mark:|||24ms|
+|[test/node-unit/buffered-worker-pool.spec.js](#r0s0)|14 :white_check_mark:|||8ms|
+|[test/node-unit/cli/config.spec.js](#r0s1)|10 :white_check_mark:|||8ms|
+|[test/node-unit/cli/node-flags.spec.js](#r0s2)|105 :white_check_mark:|||9ms|
+|[test/node-unit/cli/options.spec.js](#r0s3)|36 :white_check_mark:|||250ms|
+|[test/node-unit/cli/run-helpers.spec.js](#r0s4)|9 :white_check_mark:|||8ms|
+|[test/node-unit/cli/run.spec.js](#r0s5)|40 :white_check_mark:|||4ms|
+|[test/node-unit/mocha.spec.js](#r0s6)|24 :white_check_mark:|||33ms|
+|[test/node-unit/parallel-buffered-runner.spec.js](#r0s7)|19 :white_check_mark:|||23ms|
+|[test/node-unit/reporters/parallel-buffered.spec.js](#r0s8)|6 :white_check_mark:|||16ms|
+|[test/node-unit/serializer.spec.js](#r0s9)|40 :white_check_mark:|||31ms|
+|[test/node-unit/stack-trace-filter.spec.js](#r0s10)|2 :white_check_mark:||4 :warning:|1ms|
+|[test/node-unit/utils.spec.js](#r0s11)|5 :white_check_mark:|||1ms|
+|[test/node-unit/worker.spec.js](#r0s12)|15 :white_check_mark:|||92ms|
+|[test/unit/context.spec.js](#r0s13)|8 :white_check_mark:|||5ms|
+|[test/unit/duration.spec.js](#r0s14)|3 :white_check_mark:|||166ms|
+|[test/unit/errors.spec.js](#r0s15)|13 :white_check_mark:|||5ms|
+|[test/unit/globals.spec.js](#r0s16)|4 :white_check_mark:|||0ms|
+|[test/unit/grep.spec.js](#r0s17)|8 :white_check_mark:|||2ms|
+|[test/unit/hook-async.spec.js](#r0s18)|3 :white_check_mark:|||1ms|
+|[test/unit/hook-sync-nested.spec.js](#r0s19)|4 :white_check_mark:|||1ms|
+|[test/unit/hook-sync.spec.js](#r0s20)|3 :white_check_mark:|||0ms|
+|[test/unit/hook-timeout.spec.js](#r0s21)|1 :white_check_mark:|||0ms|
+|[test/unit/hook.spec.js](#r0s22)|4 :white_check_mark:|||0ms|
+|[test/unit/mocha.spec.js](#r0s23)|115 :white_check_mark:||1 :warning:|128ms|
+|[test/unit/overspecified-async.spec.js](#r0s24)|1 :white_check_mark:|||3ms|
+|[test/unit/parse-query.spec.js](#r0s25)|2 :white_check_mark:|||1ms|
+|[test/unit/plugin-loader.spec.js](#r0s26)|41 :white_check_mark:||1 :warning:|16ms|
+|[test/unit/required-tokens.spec.js](#r0s27)|1 :white_check_mark:|||0ms|
+|[test/unit/root.spec.js](#r0s28)|1 :white_check_mark:|||0ms|
+|[test/unit/runnable.spec.js](#r0s29)|55 :white_check_mark:|||122ms|
+|[test/unit/runner.spec.js](#r0s30)|77 :white_check_mark:|||43ms|
+|[test/unit/suite.spec.js](#r0s31)|57 :white_check_mark:|||14ms|
+|[test/unit/test.spec.js](#r0s32)|15 :white_check_mark:|||0ms|
+|[test/unit/throw.spec.js](#r0s33)|9 :white_check_mark:|||9ms|
+|[test/unit/timeout.spec.js](#r0s34)|8 :white_check_mark:|||109ms|
+|[test/unit/utils.spec.js](#r0s35)|75 :white_check_mark:|||24ms|
 ### :white_check_mark: <a id="user-content-r0s0" href="#r0s0">test/node-unit/buffered-worker-pool.spec.js</a>
 ```
 class BufferedWorkerPool constructor

@@ -3,73 +3,73 @@
  
 |Report|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|FluentValidation.Tests|803:white_check_mark:||1:warning:|4s|
+|FluentValidation.Tests|803 :white_check_mark:||1 :warning:|4s|
 ## :white_check_mark: <a id="user-content-r0" href="#r0">FluentValidation.Tests</a>
 **804** tests were completed in **4s** with **803** passed, **0** failed and **1** skipped.
 |Test suite|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|[FluentValidation.Tests.AbstractValidatorTester](#r0s0)|35:white_check_mark:|||12ms|
-|[FluentValidation.Tests.AccessorCacheTests](#r0s1)|4:white_check_mark:||1:warning:|4ms|
-|[FluentValidation.Tests.AssemblyScannerTester](#r0s2)|2:white_check_mark:|||2ms|
-|[FluentValidation.Tests.CascadingFailuresTester](#r0s3)|38:white_check_mark:|||23ms|
-|[FluentValidation.Tests.ChainedValidationTester](#r0s4)|13:white_check_mark:|||6ms|
-|[FluentValidation.Tests.ChainingValidatorsTester](#r0s5)|3:white_check_mark:|||1ms|
-|[FluentValidation.Tests.ChildRulesTests](#r0s6)|2:white_check_mark:|||7ms|
-|[FluentValidation.Tests.CollectionValidatorWithParentTests](#r0s7)|16:white_check_mark:|||13ms|
-|[FluentValidation.Tests.ComplexValidationTester](#r0s8)|17:white_check_mark:|||26ms|
-|[FluentValidation.Tests.ConditionTests](#r0s9)|18:white_check_mark:|||9ms|
-|[FluentValidation.Tests.CreditCardValidatorTests](#r0s10)|2:white_check_mark:|||2ms|
-|[FluentValidation.Tests.CustomFailureActionTester](#r0s11)|3:white_check_mark:|||1ms|
-|[FluentValidation.Tests.CustomMessageFormatTester](#r0s12)|6:white_check_mark:|||3ms|
-|[FluentValidation.Tests.CustomValidatorTester](#r0s13)|10:white_check_mark:|||6ms|
-|[FluentValidation.Tests.DefaultValidatorExtensionTester](#r0s14)|30:white_check_mark:|||38ms|
-|[FluentValidation.Tests.EmailValidatorTests](#r0s15)|36:white_check_mark:|||18ms|
-|[FluentValidation.Tests.EmptyTester](#r0s16)|9:white_check_mark:|||5ms|
-|[FluentValidation.Tests.EnumValidatorTests](#r0s17)|12:white_check_mark:|||24ms|
-|[FluentValidation.Tests.EqualValidatorTests](#r0s18)|10:white_check_mark:|||3ms|
-|[FluentValidation.Tests.ExactLengthValidatorTester](#r0s19)|6:white_check_mark:|||2ms|
-|[FluentValidation.Tests.ExclusiveBetweenValidatorTests](#r0s20)|19:white_check_mark:|||6ms|
-|[FluentValidation.Tests.ExtensionTester](#r0s21)|4:white_check_mark:|||1ms|
-|[FluentValidation.Tests.ForEachRuleTests](#r0s22)|34:white_check_mark:|||47ms|
-|[FluentValidation.Tests.GreaterThanOrEqualToValidatorTester](#r0s23)|14:white_check_mark:|||5ms|
-|[FluentValidation.Tests.GreaterThanValidatorTester](#r0s24)|13:white_check_mark:|||4ms|
-|[FluentValidation.Tests.InclusiveBetweenValidatorTests](#r0s25)|18:white_check_mark:|||4ms|
-|[FluentValidation.Tests.InheritanceValidatorTest](#r0s26)|11:white_check_mark:|||18ms|
-|[FluentValidation.Tests.InlineValidatorTester](#r0s27)|1:white_check_mark:|||2ms|
-|[FluentValidation.Tests.LanguageManagerTests](#r0s28)|21:white_check_mark:|||28ms|
-|[FluentValidation.Tests.LengthValidatorTests](#r0s29)|16:white_check_mark:|||17ms|
-|[FluentValidation.Tests.LessThanOrEqualToValidatorTester](#r0s30)|13:white_check_mark:|||4ms|
-|[FluentValidation.Tests.LessThanValidatorTester](#r0s31)|16:white_check_mark:|||6ms|
-|[FluentValidation.Tests.LocalisedMessagesTester](#r0s32)|6:white_check_mark:|||3ms|
-|[FluentValidation.Tests.LocalisedNameTester](#r0s33)|2:white_check_mark:|||1ms|
-|[FluentValidation.Tests.MemberAccessorTests](#r0s34)|9:white_check_mark:|||5ms|
-|[FluentValidation.Tests.MessageFormatterTests](#r0s35)|10:white_check_mark:|||2ms|
-|[FluentValidation.Tests.ModelLevelValidatorTests](#r0s36)|2:white_check_mark:|||1ms|
-|[FluentValidation.Tests.NameResolutionPluggabilityTester](#r0s37)|3:white_check_mark:|||2ms|
-|[FluentValidation.Tests.NotEmptyTester](#r0s38)|10:white_check_mark:|||7ms|
-|[FluentValidation.Tests.NotEqualValidatorTests](#r0s39)|11:white_check_mark:|||7ms|
-|[FluentValidation.Tests.NotNullTester](#r0s40)|5:white_check_mark:|||1ms|
-|[FluentValidation.Tests.NullTester](#r0s41)|5:white_check_mark:|||2ms|
-|[FluentValidation.Tests.OnFailureTests](#r0s42)|10:white_check_mark:|||8ms|
-|[FluentValidation.Tests.PredicateValidatorTester](#r0s43)|5:white_check_mark:|||2ms|
-|[FluentValidation.Tests.PropertyChainTests](#r0s44)|7:white_check_mark:|||1ms|
-|[FluentValidation.Tests.RegularExpressionValidatorTests](#r0s45)|15:white_check_mark:|||6ms|
-|[FluentValidation.Tests.RuleBuilderTests](#r0s46)|29:white_check_mark:|||96ms|
-|[FluentValidation.Tests.RuleDependencyTests](#r0s47)|14:white_check_mark:|||3s|
-|[FluentValidation.Tests.RulesetTests](#r0s48)|21:white_check_mark:|||14ms|
-|[FluentValidation.Tests.ScalePrecisionValidatorTests](#r0s49)|6:white_check_mark:|||4ms|
-|[FluentValidation.Tests.SharedConditionTests](#r0s50)|42:white_check_mark:|||42ms|
-|[FluentValidation.Tests.StandalonePropertyValidationTester](#r0s51)|1:white_check_mark:|||0ms|
-|[FluentValidation.Tests.StringEnumValidatorTests](#r0s52)|10:white_check_mark:|||5ms|
-|[FluentValidation.Tests.TrackingCollectionTests](#r0s53)|3:white_check_mark:|||2ms|
-|[FluentValidation.Tests.TransformTests](#r0s54)|4:white_check_mark:|||3ms|
-|[FluentValidation.Tests.UserSeverityTester](#r0s55)|7:white_check_mark:|||3ms|
-|[FluentValidation.Tests.UserStateTester](#r0s56)|4:white_check_mark:|||3ms|
-|[FluentValidation.Tests.ValidateAndThrowTester](#r0s57)|14:white_check_mark:|||25ms|
-|[FluentValidation.Tests.ValidationResultTests](#r0s58)|8:white_check_mark:|||8ms|
-|[FluentValidation.Tests.ValidatorDescriptorTester](#r0s59)|5:white_check_mark:|||1ms|
-|[FluentValidation.Tests.ValidatorSelectorTests](#r0s60)|10:white_check_mark:|||9ms|
-|[FluentValidation.Tests.ValidatorTesterTester](#r0s61)|73:white_check_mark:|||74ms|
+|[FluentValidation.Tests.AbstractValidatorTester](#r0s0)|35 :white_check_mark:|||12ms|
+|[FluentValidation.Tests.AccessorCacheTests](#r0s1)|4 :white_check_mark:||1 :warning:|4ms|
+|[FluentValidation.Tests.AssemblyScannerTester](#r0s2)|2 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.CascadingFailuresTester](#r0s3)|38 :white_check_mark:|||23ms|
+|[FluentValidation.Tests.ChainedValidationTester](#r0s4)|13 :white_check_mark:|||6ms|
+|[FluentValidation.Tests.ChainingValidatorsTester](#r0s5)|3 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.ChildRulesTests](#r0s6)|2 :white_check_mark:|||7ms|
+|[FluentValidation.Tests.CollectionValidatorWithParentTests](#r0s7)|16 :white_check_mark:|||13ms|
+|[FluentValidation.Tests.ComplexValidationTester](#r0s8)|17 :white_check_mark:|||26ms|
+|[FluentValidation.Tests.ConditionTests](#r0s9)|18 :white_check_mark:|||9ms|
+|[FluentValidation.Tests.CreditCardValidatorTests](#r0s10)|2 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.CustomFailureActionTester](#r0s11)|3 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.CustomMessageFormatTester](#r0s12)|6 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.CustomValidatorTester](#r0s13)|10 :white_check_mark:|||6ms|
+|[FluentValidation.Tests.DefaultValidatorExtensionTester](#r0s14)|30 :white_check_mark:|||38ms|
+|[FluentValidation.Tests.EmailValidatorTests](#r0s15)|36 :white_check_mark:|||18ms|
+|[FluentValidation.Tests.EmptyTester](#r0s16)|9 :white_check_mark:|||5ms|
+|[FluentValidation.Tests.EnumValidatorTests](#r0s17)|12 :white_check_mark:|||24ms|
+|[FluentValidation.Tests.EqualValidatorTests](#r0s18)|10 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.ExactLengthValidatorTester](#r0s19)|6 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.ExclusiveBetweenValidatorTests](#r0s20)|19 :white_check_mark:|||6ms|
+|[FluentValidation.Tests.ExtensionTester](#r0s21)|4 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.ForEachRuleTests](#r0s22)|34 :white_check_mark:|||47ms|
+|[FluentValidation.Tests.GreaterThanOrEqualToValidatorTester](#r0s23)|14 :white_check_mark:|||5ms|
+|[FluentValidation.Tests.GreaterThanValidatorTester](#r0s24)|13 :white_check_mark:|||4ms|
+|[FluentValidation.Tests.InclusiveBetweenValidatorTests](#r0s25)|18 :white_check_mark:|||4ms|
+|[FluentValidation.Tests.InheritanceValidatorTest](#r0s26)|11 :white_check_mark:|||18ms|
+|[FluentValidation.Tests.InlineValidatorTester](#r0s27)|1 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.LanguageManagerTests](#r0s28)|21 :white_check_mark:|||28ms|
+|[FluentValidation.Tests.LengthValidatorTests](#r0s29)|16 :white_check_mark:|||17ms|
+|[FluentValidation.Tests.LessThanOrEqualToValidatorTester](#r0s30)|13 :white_check_mark:|||4ms|
+|[FluentValidation.Tests.LessThanValidatorTester](#r0s31)|16 :white_check_mark:|||6ms|
+|[FluentValidation.Tests.LocalisedMessagesTester](#r0s32)|6 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.LocalisedNameTester](#r0s33)|2 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.MemberAccessorTests](#r0s34)|9 :white_check_mark:|||5ms|
+|[FluentValidation.Tests.MessageFormatterTests](#r0s35)|10 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.ModelLevelValidatorTests](#r0s36)|2 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.NameResolutionPluggabilityTester](#r0s37)|3 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.NotEmptyTester](#r0s38)|10 :white_check_mark:|||7ms|
+|[FluentValidation.Tests.NotEqualValidatorTests](#r0s39)|11 :white_check_mark:|||7ms|
+|[FluentValidation.Tests.NotNullTester](#r0s40)|5 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.NullTester](#r0s41)|5 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.OnFailureTests](#r0s42)|10 :white_check_mark:|||8ms|
+|[FluentValidation.Tests.PredicateValidatorTester](#r0s43)|5 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.PropertyChainTests](#r0s44)|7 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.RegularExpressionValidatorTests](#r0s45)|15 :white_check_mark:|||6ms|
+|[FluentValidation.Tests.RuleBuilderTests](#r0s46)|29 :white_check_mark:|||96ms|
+|[FluentValidation.Tests.RuleDependencyTests](#r0s47)|14 :white_check_mark:|||3s|
+|[FluentValidation.Tests.RulesetTests](#r0s48)|21 :white_check_mark:|||14ms|
+|[FluentValidation.Tests.ScalePrecisionValidatorTests](#r0s49)|6 :white_check_mark:|||4ms|
+|[FluentValidation.Tests.SharedConditionTests](#r0s50)|42 :white_check_mark:|||42ms|
+|[FluentValidation.Tests.StandalonePropertyValidationTester](#r0s51)|1 :white_check_mark:|||0ms|
+|[FluentValidation.Tests.StringEnumValidatorTests](#r0s52)|10 :white_check_mark:|||5ms|
+|[FluentValidation.Tests.TrackingCollectionTests](#r0s53)|3 :white_check_mark:|||2ms|
+|[FluentValidation.Tests.TransformTests](#r0s54)|4 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.UserSeverityTester](#r0s55)|7 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.UserStateTester](#r0s56)|4 :white_check_mark:|||3ms|
+|[FluentValidation.Tests.ValidateAndThrowTester](#r0s57)|14 :white_check_mark:|||25ms|
+|[FluentValidation.Tests.ValidationResultTests](#r0s58)|8 :white_check_mark:|||8ms|
+|[FluentValidation.Tests.ValidatorDescriptorTester](#r0s59)|5 :white_check_mark:|||1ms|
+|[FluentValidation.Tests.ValidatorSelectorTests](#r0s60)|10 :white_check_mark:|||9ms|
+|[FluentValidation.Tests.ValidatorTesterTester](#r0s61)|73 :white_check_mark:|||74ms|
 ### :white_check_mark: <a id="user-content-r0s0" href="#r0s0">FluentValidation.Tests.AbstractValidatorTester</a>
 ```
 :white_check_mark: Can_replace_default_errorcode_resolver

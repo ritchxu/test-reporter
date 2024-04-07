@@ -3,24 +3,24 @@
  
 |Report|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|VanillaCloudStorageClientTest|67:white_check_mark:||12:warning:|1s|
+|VanillaCloudStorageClientTest|67 :white_check_mark:||12 :warning:|1s|
 ## :white_check_mark: <a id="user-content-r0" href="#r0">VanillaCloudStorageClientTest</a>
 **79** tests were completed in **1s** with **67** passed, **0** failed and **12** skipped.
 |Test suite|Passed|Failed|Skipped|Time|
 |:---|---:|---:|---:|---:|
-|[VanillaCloudStorageClientTest.CloudStorageCredentialsTest](#r0s0)|6:white_check_mark:|||30ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.DropboxCloudStorageClientTest](#r0s1)|2:white_check_mark:||3:warning:|101ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.FtpCloudStorageClientTest](#r0s2)|4:white_check_mark:||3:warning:|166ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.GmxCloudStorageClientTest](#r0s3)|2:white_check_mark:|||7ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.GoogleCloudStorageClientTest](#r0s4)|1:white_check_mark:||3:warning:|40ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.OnedriveCloudStorageClientTest](#r0s5)|1:white_check_mark:||3:warning:|15ms|
-|[VanillaCloudStorageClientTest.CloudStorageProviders.WebdavCloudStorageClientTest](#r0s6)|5:white_check_mark:|||16ms|
-|[VanillaCloudStorageClientTest.CloudStorageTokenTest](#r0s7)|9:white_check_mark:|||0ms|
-|[VanillaCloudStorageClientTest.OAuth2.AuthorizationResponseErrorTest](#r0s8)|3:white_check_mark:|||3ms|
-|[VanillaCloudStorageClientTest.OAuth2.OAuth2UtilsTest](#r0s9)|9:white_check_mark:|||12ms|
-|[VanillaCloudStorageClientTest.OAuth2CloudStorageClientTest](#r0s10)|5:white_check_mark:|||13ms|
-|[VanillaCloudStorageClientTest.SecureStringExtensionsTest](#r0s11)|7:white_check_mark:|||0ms|
-|[VanillaCloudStorageClientTest.SerializeableCloudStorageCredentialsTest](#r0s12)|13:white_check_mark:|||43ms|
+|[VanillaCloudStorageClientTest.CloudStorageCredentialsTest](#r0s0)|6 :white_check_mark:|||30ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.DropboxCloudStorageClientTest](#r0s1)|2 :white_check_mark:||3 :warning:|101ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.FtpCloudStorageClientTest](#r0s2)|4 :white_check_mark:||3 :warning:|166ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.GmxCloudStorageClientTest](#r0s3)|2 :white_check_mark:|||7ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.GoogleCloudStorageClientTest](#r0s4)|1 :white_check_mark:||3 :warning:|40ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.OnedriveCloudStorageClientTest](#r0s5)|1 :white_check_mark:||3 :warning:|15ms|
+|[VanillaCloudStorageClientTest.CloudStorageProviders.WebdavCloudStorageClientTest](#r0s6)|5 :white_check_mark:|||16ms|
+|[VanillaCloudStorageClientTest.CloudStorageTokenTest](#r0s7)|9 :white_check_mark:|||0ms|
+|[VanillaCloudStorageClientTest.OAuth2.AuthorizationResponseErrorTest](#r0s8)|3 :white_check_mark:|||3ms|
+|[VanillaCloudStorageClientTest.OAuth2.OAuth2UtilsTest](#r0s9)|9 :white_check_mark:|||12ms|
+|[VanillaCloudStorageClientTest.OAuth2CloudStorageClientTest](#r0s10)|5 :white_check_mark:|||13ms|
+|[VanillaCloudStorageClientTest.SecureStringExtensionsTest](#r0s11)|7 :white_check_mark:|||0ms|
+|[VanillaCloudStorageClientTest.SerializeableCloudStorageCredentialsTest](#r0s12)|13 :white_check_mark:|||43ms|
 ### :white_check_mark: <a id="user-content-r0s0" href="#r0s0">VanillaCloudStorageClientTest.CloudStorageCredentialsTest</a>
 ```
 :white_check_mark: AreEqualWorksWithDifferentPassword
