@@ -1566,7 +1566,9 @@ const node_utils_1 = __nccwpck_require__(5824);
 const parse_utils_1 = __nccwpck_require__(7811);
 const slugger_1 = __nccwpck_require__(3328);
 const MAX_REPORT_LENGTH = 65535;
-const MAX_ACTIONS_SUMMARY_LENGTH = 131072; // 1048576 soon
+// https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#step-isolation-and-limits
+// 1MiB content limit
+const MAX_ACTIONS_SUMMARY_LENGTH = 1048576;
 const defaultOptions = {
     listSuites: 'all',
     listTests: 'all',

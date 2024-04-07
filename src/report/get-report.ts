@@ -6,7 +6,9 @@ import {getFirstNonEmptyLine} from '../utils/parse-utils'
 import {slug} from '../utils/slugger'
 
 const MAX_REPORT_LENGTH = 65535
-const MAX_ACTIONS_SUMMARY_LENGTH = 131072 // 1048576 soon
+// https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#step-isolation-and-limits
+// 1MiB content limit
+const MAX_ACTIONS_SUMMARY_LENGTH = 1048576
 
 export interface ReportOptions {
   listSuites: 'all' | 'failed' | 'none'
